@@ -1,6 +1,6 @@
 [![Awesome Logo](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![Visitors](https://komarev.com/ghpvc/?username=worldbench&repo=awesome-3d-in-the-wild&label=Hello,%20Visitor%20&color=yellow&style=social)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/Xiangxu-0103/awesome-lidar-scene-understanding/pulls)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/worldbench/awesome-3d-in-the-wild/pulls)
 
 # :sunglasses: Awesome 3D Scene Understanding in the Wild
 
