@@ -22,8 +22,10 @@
 - [**4. Label-Efficient Learning**](#4-label-efficient-learning)
   - [Weakly-Supervised Learning](#one-weakly-supervised-learning)
   - [Semi-Supervised Learning](#two-semi-supervised-learning)
-- [**5. Self-Supervised Learning**](#5-self-supervised-learning)
-- [**6. Open Vocabulary Segmentation**](#6-open-vocabulary-segmentation)
+  - [Unsupervised Learning](#three-unsupervised-learning)
+  - [Self-Supervised Learning](#four-self-supervised-learning)
+  - [Open Vocabulary Segmentation](#five-open-vocabulary-segmentation)
+- [**5. Datasets**](#5-datasets)
 
 ## 1. LiDAR Semantic Segmentation
 
@@ -43,7 +45,6 @@
 | `RandLA-Net+` | [![arXiv](https://img.shields.io/badge/arXiv-2107.02389-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2107.02389)<br>Learning Semantic Segmentation of Large-Scale Point Clouds with Random Sampling | TPAMI 2021 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](http://randla-net.cs.ox.ac.uk/) | [![GitHub](https://img.shields.io/github/stars/QingyongHu/RandLA-Net)](https://github.com/QingyongHu/RandLA-Net) |
 | `BAF-LAC` | Backward Attentive Fusing Network With Local Aggregation Classifier for 3D Point Cloud Semantic Segmentation | TIP 2021 | - | [![GitHub](https://img.shields.io/github/stars/Xiangxu-0103/BAF-LAC)](https://github.com/Xiangxu-0103/BAF-LAC) |
 | `PTv2` | [![arXiv](https://img.shields.io/badge/arXiv-2210.05666-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2210.05666)<br>Point Transformer V2: Grouped Vector Attention and Partition-based Pooling | NeurIPS 2022 | - | [![GitHub](https://img.shields.io/github/stars/Pointcept/PointTransformerV2)](https://github.com/Pointcept/PointTransformerV2) |
-| `GrowSP` | [![arXiv](https://img.shields.io/badge/arXiv-2305.16404-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2305.16404)<br>GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds | CVPR 2023 | - | [![GitHub](https://img.shields.io/github/stars/vLAR-group/GrowSP)](https://github.com/vLAR-group/GrowSP) |
 | `WaffleIron` | [![arXiv](https://img.shields.io/badge/arXiv-2301.10100-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2301.10100)<br>Using a Waffle Iron for Automotive Point Cloud Semantic Segmentation | ICCV 2023 | - | [![GitHub](https://img.shields.io/github/stars/valeoai/WaffleIron)](https://github.com/valeoai/WaffleIron) |
 | `PCB-RandNet` | [![arXiv](https://img.shields.io/badge/arXiv-2209.13797-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2209.13797)<br>PCB-RandNet: Rethinking Random Sampling for LiDAR Semantic Segmentation in Autonomous Driving Scene | ICRA 2024 | - | [![GitHub](https://img.shields.io/github/stars/huixiancheng/PCB-RandNet)](https://github.com/huixiancheng/PCB-RandNet) |
 | `PTv3` | [![arXiv](https://img.shields.io/badge/arXiv-2312.10035-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2312.10035)<br>Point Transformer V3: Simpler Faster Stronger | CVPR 2024 | - | [![GitHub](https://img.shields.io/github/stars/Pointcept/PointTransformerV3)](https://github.com/Pointcept/PointTransformerV3) |
@@ -239,7 +240,15 @@
 | `HiLoTs` | [![arXiv](https://img.shields.io/badge/arXiv-2503.17752-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.17752)<br>HiLoTs: High-Low Temporal Sensitive Representation Learning for Semi-Supervised LiDAR Segmentation in Autonomous Driving | CVPR 2025 | - | [![GitHub](https://img.shields.io/github/stars/rdlin118/HiLoTs)](https://github.com/rdlin118/HiLoTs) |
 | `LaserMix++` | [![arXiv](https://img.shields.io/badge/arXiv-2405.05258-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2405.05258)<br>Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving | TPAMI 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ldkong.com/LaserMix) | [![GitHub](https://img.shields.io/github/stars/ldkong1205/LaserMix)](https://github.com/ldkong1205/LaserMix) |
 
-## 5. Self-Supervised Learning
+### :three: Unsupervised Learning
+
+> :timer_clock: In chronological order, from the earliest to the latest.
+
+| Model | Paper | Venue | Website | Github |
+|:-:|:-|:-:|:-:|:-:|
+| `GrowSP` | [![arXiv](https://img.shields.io/badge/arXiv-2305.16404-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2305.16404)<br>GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds | CVPR 2023 | - | [![GitHub](https://img.shields.io/github/stars/vLAR-group/GrowSP)](https://github.com/vLAR-group/GrowSP) |
+
+### :four: Self-Supervised Learning
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
@@ -265,7 +274,7 @@
 | `CleverDistiller` | [![arXiv](https://img.shields.io/badge/arXiv-2503.09878-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.09878)<br>CleverDistiller: Simple and Spatially Consistent Cross-modal Distillation | arXiv 2025 | - | - |
 | `SuperFlow++` | [![arXiv](https://img.shields.io/badge/arXiv-2503.19912-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.19912)<br>SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/Xiangxu-0103/SuperFlow)](https://github.com/Xiangxu-0103/SuperFlow) |
 
-## 6. Open Vocabulary Segmentation
+### :five: Open Vocabulary Segmentation
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
@@ -281,7 +290,7 @@
 | `ULOPS` | [![arXiv](https://img.shields.io/badge/arXiv-2506.13265-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.13265)<br>Open-Set LiDAR Panoptic Segmentation Guided by Uncertainty-Aware Learning | IROS 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ulops.cs.uni-freiburg.de/) | - |
 | `LOSC` | [![arXiv](https://img.shields.io/badge/arXiv-2507.07605-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.07605)<br>LOSC: LiDAR Open-voc Segmentation Consolidator | arXiv 2025 | - | - |
 
-## 7. Datasets
+## 5. Datasets
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
