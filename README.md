@@ -249,7 +249,10 @@
 
 | Model | Paper | Venue | Website | Github |
 |:-:|:-|:-:|:-:|:-:|
+
+| `OGC` | [![arXiv](https://img.shields.io/badge/arXiv-2210.04458-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2210.04458)<br>OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds | NeurIPS 2022 | - | [![GitHub](https://img.shields.io/github/stars/vLAR-group/OGC)](https://github.com/vLAR-group/OGC) |
 | `GrowSP` | [![arXiv](https://img.shields.io/badge/arXiv-2305.16404-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2305.16404)<br>GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds | CVPR 2023 | - | [![GitHub](https://img.shields.io/github/stars/vLAR-group/GrowSP)](https://github.com/vLAR-group/GrowSP) |
+| `OGC+` | [![arXiv](https://img.shields.io/badge/arXiv-2210.04458-b31b1b?style=flat-square&logo=arxiv)](https://ieeexplore.ieee.org/abstract/document/10551495/)<br>Unsupervised 3D Object Segmentation of Point Clouds by Geometry Consistency | TPAMI 2024 | - | [![GitHub](https://img.shields.io/github/stars/vLAR-group/OGC)](https://github.com/vLAR-group/OGC) |
 | `LogoSP` | [![arXiv](https://img.shields.io/badge/arXiv-2506.07857-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.07857)<br>LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds | CVPR 2025 | - | [![GitHub](https://img.shields.io/github/stars/vLAR-group/LogoSP)](https://github.com/vLARgroup/LogoSP) |
 
 ### :four: Self-Supervised Learning
