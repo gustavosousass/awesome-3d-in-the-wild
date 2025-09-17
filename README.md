@@ -249,10 +249,25 @@
 
 | Model | Paper | Venue | Website | Github |
 |:-:|:-|:-:|:-:|:-:|
+| `xMUDA` | [![arXiv](https://img.shields.io/badge/arXiv-1911.12676-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1911.12676)<br>xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation | CVPR 2020 | - | [![GitHub](https://img.shields.io/github/stars/valeoai/xmuda)](https://github.com/valeoai/xmuda) |
+| `SF-UDA³ᴰ` | [![arXiv](https://img.shields.io/badge/arXiv-9320105-b31b1b?style=flat-square&logo=arxiv)](https://ieeexplore.ieee.org/abstract/document/9320105)<br>SF-UDA³ᴰ: Source-Free Unsupervised Domain Adaptation for LiDAR-Based 3D Object Detection | 3DV 2020 | - | [![GitHub](https://img.shields.io/github/stars/SF-UDA-3DV)](https://github.com/saltoricristiano/SF-UDA-3DV) |
+| `AUDA` | [![arXiv](https://img.shields.io/badge/arXiv-1433.2108-b31b1b?style=flat-square&logo=arxiv)](https://www.sciencedirect.com/science/article/abs/pii/S0924271621001131)<br>Adversarial unsupervised domain adaptation for 3D semantic segmentation with multi-modal learning | ISPRS 2021 | - | [![GitHub](https://img.shields.io/github/stars/weiliu-ai/auda)](https://github.com/weiliu-ai/auda) |
+| `CoSMix` | [![arXiv](https://img.shields.io/badge/arXiv-2207.09778-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2207.09778)<br>Unsupervised Domain Adaptation for 3D LiDAR Semantic Segmentation Using Contrastive Learning and Multi-Model Pseudo Labeling | ECCV 2022 | - | [![GitHub](https://img.shields.io/github/stars/saltoricristiano/cosmix-uda)](https://github.com/saltoricristiano/cosmix-uda) |
+| `GIPSO` | [![arXiv](https://img.shields.io/badge/arXiv-2207.09763-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2207.09763)<br>GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation | ECCV 2022 | - | [![GitHub](https://img.shields.io/github/stars/saltoricristiano/gipso-sfouda)](https://github.com/saltoricristiano/gipso-sfouda) |
 | `OGC` | [![arXiv](https://img.shields.io/badge/arXiv-2210.04458-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2210.04458)<br>OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds | NeurIPS 2022 | - | [![GitHub](https://img.shields.io/github/stars/vLAR-group/OGC)](https://github.com/vLAR-group/OGC) |
 | `GrowSP` | [![arXiv](https://img.shields.io/badge/arXiv-2305.16404-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2305.16404)<br>GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds | CVPR 2023 | - | [![GitHub](https://img.shields.io/github/stars/vLAR-group/GrowSP)](https://github.com/vLAR-group/GrowSP) |
+| `U3DS^3` | [![arXiv](https://img.shields.io/badge/arXiv-2311.06018-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2311.06018)<br>U3DS^3: Unsupervised 3D Semantic Scene Segmentation | WACV 2024 | - | - |
+| `LiOn-XA` | [![arXiv](https://img.shields.io/badge/arXiv-2410.15833-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2410.15833)<br>LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training | IROS 2024 | - | [![GitHub](https://img.shields.io/github/stars/JensLe97/lion-xa)](https://github.com/JensLe97/lion-xa) |
 | `OGC+` | [![arXiv](https://img.shields.io/badge/arXiv-2210.04458-b31b1b?style=flat-square&logo=arxiv)](https://ieeexplore.ieee.org/abstract/document/10551495/)<br>Unsupervised 3D Object Segmentation of Point Clouds by Geometry Consistency | TPAMI 2024 | - | [![GitHub](https://img.shields.io/github/stars/vLAR-group/OGC)](https://github.com/vLAR-group/OGC) |
 | `LogoSP` | [![arXiv](https://img.shields.io/badge/arXiv-2506.07857-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.07857)<br>LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds | CVPR 2025 | - | [![GitHub](https://img.shields.io/github/stars/vLAR-group/LogoSP)](https://github.com/vLARgroup/LogoSP) |
+| `VFMSeg` | [![arXiv](https://img.shields.io/badge/arXiv-2403.10001-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.10001)<br>Visual foundation models boost cross-modal unsupervised domain adaptation for 3d semantic segmentation | T-ITS 2025 | - | [![GitHub](https://img.shields.io/github/stars/EtronTech/VFMSeg)](https://github.com/EtronTech/VFMSeg) |
+| `DAKD` | [![arXiv](https://img.shields.io/badge/arXiv-2509.00379-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.00379)<br>Domain Adaptation-Based Crossmodal Knowledge Distillation for 3D Semantic Segmentation | ICRA 2025 | - | [![GitHub](https://img.shields.io/github/stars/KangJialiang/DAKD)](https://github.com/KangJialiang/DAKD) |
+| `-` | [![arXiv](https://img.shields.io/badge/arXiv-2507.18176-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.18176)<br>Unsupervised Domain Adaptation for 3D LiDAR Semantic Segmentation Using Contrastive Learning and Multi-Model Pseudo Labeling | arXiv 2025 | - | - |
+
+
+
+
+
 
 ### :four: Self-Supervised Learning
 
